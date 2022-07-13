@@ -236,22 +236,22 @@ template { display: none; }
 .highlight .mo { color: #009999; }
 
 /* Literal.Number.Oct */
-.highlight .sb { color: #d14; }
+.highlight .sb { color: rgb(88, 17, 221); }
 
 /* Literal.String.Backtick */
-.highlight .sc { color: #d14; }
+.highlight .sc { color: rgb(84, 34, 247); }
 
 /* Literal.String.Char */
-.highlight .sd { color: #d14; }
+.highlight .sd { color: rgb(105, 17, 221); }
 
 /* Literal.String.Doc */
-.highlight .s2 { color: #d14; }
+.highlight .s2 { color: rgb(68, 0, 186); }
 
 /* Literal.String.Double */
-.highlight .se { color: #d14; }
+.highlight .se { color: rgb(78, 17, 221); }
 
 /* Literal.String.Escape */
-.highlight .sh { color: #d14; }
+.highlight .sh { color: rgb(78, 17, 221); }
 
 /* Literal.String.Heredoc */
 .highlight .si { color: #5e2cf4; }
