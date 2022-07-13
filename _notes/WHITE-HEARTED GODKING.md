@@ -5,7 +5,7 @@ tags:
 ---
 # 337102
 
-![WHITE GOD KING THE TRUE](/images/whitegodking.png)
+![WHITE GOD-KING THE TRUE](/images/whitegodking.png)
 *...*
 
 OUTTURNED FOR TOTAL UPTURN FOREVER
