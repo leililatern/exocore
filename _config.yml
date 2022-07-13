@@ -1,7 +1,7 @@
 title: Leilil
 
 source: .
-url: leili.netlify.app
+url: https://leili.netlify.app/
 baseurl: ''
 destination: _site
 repository: leililatern/exocore
