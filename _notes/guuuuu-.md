@@ -3,7 +3,7 @@ published: true
 date: 2022-07-13
 tags:
 ---
-# 4098d2
+# AWESOME NOTE
 
 Bwaaaa hi hi hi hi hi hi hi hihihiihihhihhiihihibwaaaaaa
 Aaahhhhh ggwaaaawaawawawa gawawaawawawawa gawaaaaa Äääää GWAAAAAAAAAA GUUGUUGUUGUUGUUGUUGUUGUUGUUGUUGUGUGUUGUGGUUGUGUG GGWAGWAGWAGWAGWAAGWAGWAGAGAGGAGAGAGAGAGAGAGAGAGGAWAAAA
