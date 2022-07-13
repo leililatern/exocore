@@ -4,7 +4,7 @@ source: .
 url: https://leili.netlify.app/
 baseurl: ''
 destination: _site
-repository: leililatern/exocore
+repository: remiliacorp/exocore
 
 
 background: "red"
