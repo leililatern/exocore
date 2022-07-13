@@ -514,7 +514,7 @@ img + em { display: block; color: #cc1105; text-align: center; width: 50%; margi
 
 .index-item { height: 8em; overflow: hidden; }
 
-.index-item-title, .library-item-title { font-weight: bold; text-decoration: underline; color: #800000; overflow: hidden; }
+.index-item-title, .library-item-title { font-weight: bold; text-decoration: underline; color: #5e2cf4; overflow: hidden; }
 
 .index-item-date, .library-item-filetype { font-weight: normal; float: right; }
 
