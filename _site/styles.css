@@ -110,7 +110,7 @@ template { display: none; }
 .highlight .c { color: #999988; font-style: italic; }
 
 /* Comment */
-.highlight .err { color: #a61717; background-color: #e3d2d2; }
+.highlight .err { color: #6431ff; background-color: #e3d2d2; }
 
 /* Error */
 .highlight .k { font-weight: bold; }
@@ -140,7 +140,7 @@ template { display: none; }
 .highlight .ge { font-style: italic; }
 
 /* Generic.Emph */
-.highlight .gr { color: #aa0000; }
+.highlight .gr { color: #4400aa; }
 
 /* Generic.Error */
 .highlight .gh { color: #999999; }
@@ -164,7 +164,7 @@ template { display: none; }
 .highlight .gu { color: #aaaaaa; }
 
 /* Generic.Subheading */
-.highlight .gt { color: #aa0000; }
+.highlight .gt { color: #5900ff; }
 
 /* Generic.Traceback */
 .highlight .kc { font-weight: bold; }
@@ -203,7 +203,7 @@ template { display: none; }
 .highlight .ni { color: #800080; }
 
 /* Name.Entity */
-.highlight .ne { color: #990000; font-weight: bold; }
+.highlight .ne { color: #3804a9; font-weight: bold; }
 
 /* Name.Exception */
 .highlight .nf { color: #990000; font-weight: bold; }
@@ -254,19 +254,19 @@ template { display: none; }
 .highlight .sh { color: #d14; }
 
 /* Literal.String.Heredoc */
-.highlight .si { color: #d14; }
+.highlight .si { color: #5e2cf4; }
 
 /* Literal.String.Interpol */
-.highlight .sx { color: #d14; }
+.highlight .sx { color: #5e2cf4; }
 
 /* Literal.String.Other */
 .highlight .sr { color: #009926; }
 
 /* Literal.String.Regex */
-.highlight .s1 { color: #d14; }
+.highlight .s1 { color: #5e2cf4; }
 
 /* Literal.String.Single */
-.highlight .ss { color: #990073; }
+.highlight .ss { color: #4400ff; }
 
 /* Literal.String.Symbol */
 .highlight .bp { color: #999999; }
@@ -498,7 +498,7 @@ img + em { display: block; color: #2b0068; text-align: center; width: 50%; margi
 ================================================== */
 .footnotes { border: thin solid black; padding: 1em 0; background-color: #fffbf0; color: black; }
 
-.license { font-family: monospace; line-height: 1.1em; color: #800000; font-size: 1rem; border: medium outset; background-color: antiquewhite; display: block; padding: 1em; max-width: 28em; margin: 2em auto; text-align: center; }
+.license { font-family: monospace; line-height: 1.1em; color: #5e2cf4; font-size: 1rem; border: medium outset; background-color: antiquewhite; display: block; padding: 1em; max-width: 28em; margin: 2em auto; text-align: center; }
 
 /* INDEX
 ================================================== */
@@ -510,7 +510,7 @@ img + em { display: block; color: #2b0068; text-align: center; width: 50%; margi
 
 .index-item, .archive-item, .library-item { width: 95%; margin: auto; background-color: antiquewhite; text-align: left; margin-bottom: 1em; padding: 0.5em; border: thin solid #cc1105; box-sizing: border-box; }
 
-.index-item:hover, .archive-item:hover, .library-item:hover { box-shadow: 0px 0px 0px 1px #cc1105; }
+.index-item:hover, .archive-item:hover, .library-item:hover { box-shadow: 0px 0px 0px 1px #6b15ff; }
 
 .index-item { height: 8em; overflow: hidden; }
 
@@ -548,9 +548,9 @@ img + em { display: block; color: #2b0068; text-align: center; width: 50%; margi
 
 .tile:hover, home-link-button:hover { background-color: antiquewhite; }
 
-.tile:target { border: medium solid #cc1105; }
+.tile:target { border: medium solid #4c0ebe; }
 
-.tile, .home-link-button { background-color: #fffbf0; border: thin solid #800000; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; }
+.tile, .home-link-button { background-color: #fffbf0; border: thin solid #4f0aff; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; }
 
 .tile:hover, .home-link-button:hover { background-color: antiquewhite; }
 
@@ -586,7 +586,7 @@ img + em { display: block; color: #2b0068; text-align: center; width: 50%; margi
 
 .text text { cursor: pointer; fill: black; }
 
-.nodes [active], .text [active] { cursor: pointer; fill: #cc1105; font-weight: bold; text-decoration: underline; }
+.nodes [active], .text [active] { cursor: pointer; fill: #6e00f5; font-weight: bold; text-decoration: underline; }
 
 .inactive { opacity: 0.4; transition: all 0.15s ease-out; }
 
