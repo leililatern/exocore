@@ -1,10 +1,10 @@
 title: Leili
 
 source: .
-url: https://leili.netlify.app
+url: https://leili.netlify.app/
 baseurl: ''
 destination: _site
-repository: remiliacorp/exocore
+repository: leililatern/exocore
 
 
 background: "red"
