@@ -11,7 +11,7 @@ $color-items: antiquewhite;
 
 
 /* --- Text Colors --- */
-$color-text: #5100ff;
+$color-text: #7818ff;
 $color-subtext: black;
 $color-code: #707070;
 $internal-links: rgb(0, 242, 255);
@@ -150,7 +150,7 @@ a {
   text-decoration:underline;
   }
     a:hover {
-    color:rgba(74, 0, 247, 0.906) !important;
+    color:rgb(185, 0, 247) !important;
     text-decoration: underline;
     cursor: pointer;
   }
