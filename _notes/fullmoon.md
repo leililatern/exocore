@@ -6,7 +6,7 @@ tags:
 # 195e13
 
 ![](/images/mooniceberg.png)
-*Moonlight as pictured through the heaIceberg
+*Moonlight as pictured through the Great Iceberg*
 
 THIS FULL MOON 
 
