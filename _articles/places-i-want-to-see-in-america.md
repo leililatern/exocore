@@ -1,7 +1,7 @@
 ---
 published: true
 subtitle:
-topic:
+topic: Lists!
 date: 2022-07-24
 tags: 
 ---
