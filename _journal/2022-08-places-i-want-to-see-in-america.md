@@ -1,9 +1,8 @@
 ---
 published: true
 subtitle:
-topic: Lists!
 date: 2022-07-24
-tags: 
+tags:
 ---
 
 ### Places I want to see in America
@@ -17,6 +16,11 @@ tags:
 
 ![](/images/yellowstone.png)
 *Seems like a nice place to be geologically active...*
+
+### Death Valley!
+
+![](/images/deathvalley.png)
+*It would be an incredible feeling to experience such an extreme place. Death Valley is also basically the size of my country...*
 
 
 
