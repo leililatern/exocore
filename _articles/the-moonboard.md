@@ -22,3 +22,9 @@ tags: moon
 | Mass | 73,476,730,924,573,500,000,000kg, *1,2% of Earth* | 5,972,190,000,000,000,000,000,000kg |
 | Density | 3.344g/cm3, *60% of Earth* | 5.513g/cm3 |
 | Gravity | 1.624m/s2, *16,6% of Earth* | 9.80665m/s2 |
+
+
+
+
+
+*More info soon ...*

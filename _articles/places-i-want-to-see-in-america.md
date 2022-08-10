@@ -1,9 +1,10 @@
 ---
 published: true
+subtitle:
+topic:
 date: 2022-07-24
-tags:
+tags: 
 ---
-# cc8b2e
 
 ### Hoh Rainforest, Washington
 
@@ -14,3 +15,8 @@ tags:
 
 ![](/images/yellowstone.png)
 *Seems like a nice place to be geologically active...*
+
+
+
+
+*More info soon...*
