@@ -35,4 +35,4 @@ tags:
 
 ### Oven-cooked fresh wild salmon/trout
 ![](/images/ovensalmon.png)
-*I make the best salmon/trout in the oven. I can also share this recipe here sometime maybe :DD trick is: to add lots of lemon juice and pepper and honey. then whatever Else u want and let it marinate for the ideally night or at least an hour"
+*I make the best salmon/trout in the oven. I can also share this recipe here sometime maybe :DD trick is: to add lots of lemon juice and pepper and honey. then whatever Else u want and let it marinate for the ideally night or at least an hour*
