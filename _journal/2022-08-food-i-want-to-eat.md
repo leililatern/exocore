@@ -5,7 +5,6 @@ date: 2022-08-11
 tags:
 ---
 
-# List of Foods I like and Want to Eat
 
 ### Oysters
 ![](/images/oysters.png)
