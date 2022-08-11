@@ -23,7 +23,8 @@ tags: moon
 | Density | 3.344g/cm3, *60% of Earth* | 5.513g/cm3 |
 | Gravity | 1.624m/s2, *16,6% of Earth* | 9.80665m/s2 |
 
-
+Furthermore, the Moon is reported to have an exceptionally durable and dense surface material, even to the degree that the material could be of unnatural origins.. 
+Craters of the moon are disproportionally shallow for their sizes compared to the Earth's craters due to the Moon's strong material. 
 
 
 
