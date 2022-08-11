@@ -25,7 +25,7 @@ tags:
 
 ### Grand Canyon!
 
-![](/images/grandcanyon.png)
+![](/images/grandcanyon2.png)
 *I have been told that this place is Massive and Powerful. I wanna see and feel for myself!*
 
 
