@@ -8,22 +8,22 @@ tags:
 
 # Food that I would like to eat Right Now
 
-### 1. Oysters
+### Oysters
 ![](/images/oysters.png)
 *Nämm nämm...*
 
-### 2. Um. CHANTERELLE SAUCE WITH (MASHED!) POTATOES AND MINCED BEEF
+### Um. CHANTERELLE SAUCE WITH (MASHED!) POTATOES AND MINCED BEEF
 ![](/images/chanterellesauce.png)
 *Tastiest thing in the world. Every Estonian swears by it, and also EVERY Estonian swears that THEIR mother makes the best chanterelle sauce in the world. :33 >.<*
 
-### 3. MUSSELS with a tasty sauce
+### MUSSELS with a tasty sauce
 ![](/images/musselsinsauce.png) 
 *Just saw this image on the tl and it fueled me to make this post. Mussels... So tasty ! I love seafood a lot*
 
-### 4. Beef Tartare (my own recipe! very spicy raw healthy flavourful recipe, WILL leave your mouth smelly and stinky) 
+### Beef Tartare (my own recipe! very spicy raw healthy flavourful recipe, WILL leave your mouth smelly and stinky) 
 ![](/images/beeftartare.png) *Beef tartare is so good. It leaves you feeling great after eating it, especially when I make it by my recipe. I might even post the recipe here one day*
 
-### 5. Steak, rare
+### Steak, rare
 ![](/images/steakrare.png) 
 *It's sinple really*
 
