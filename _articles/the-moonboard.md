@@ -23,9 +23,9 @@ tags: moon
 | Density | 3.344g/cm3, *60% of Earth* | 5.513g/cm3 |
 | Gravity | 1.624m/s2, *16,6% of Earth* | 9.80665m/s2 |
 
-Furthermore, the Moon is reported to have an exceptionally durable and dense surface material, even to the degree that the material could be of unnatural origins.. 
-Craters of the moon are disproportionally shallow for their sizes compared to the Earth's craters due to the Moon's strong material. 
-
+1. Furthermore, the Moon is reported to have an exceptionally durable and dense surface material, even to the degree that the material of the Moon could be of... Unnatural origins.. 
+.right-aside Example: Moon's biggest crater , South Pole-Aitken Basin reaches 2500km in diameter, but only 8,2km in depth. For contrast, Earth's largest known crater with a measurable depth (not covered by thousands of years of rubble), the Chicxulub crater, has a diameter of 180km and depth of 10km.
+2. Craters of the moon are disproportionally shallow for their sizes compared to the Earth's craters due to the Moon's strong material. 
 
 
 *More info soon ...*
