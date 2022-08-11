@@ -23,7 +23,10 @@ tags:
 ![](/images/deathvalley.png)
 *It would be an incredible feeling to experience such an extreme place. Death Valley is also basically the size of my country...*
 
+### Grand Canyon!
 
+![](/images/grandcanyon.png)
+*I have been told that this place is Massive and Powerful. I wanna see and feel for myself!*
 
 
 *More info soon...*
