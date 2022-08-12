@@ -46,4 +46,4 @@ tags:
 ### Chinese Ginseng Chicken Tonic Soup
 
 ![](/images/chickensoup.png)
-*Don's Recipe for Chinese Ginseng Chicken Tonic Soup... I want!!! Recipe is [Here](https://remiliaexocore.netlify.app/journal/chinese-ginseng-chicken-tonic-soup/) and for his Korean Chicken Soup, [Here](https://remiliaexocore.netlify.app/journal/korean-ginseng-chicken-soup/) Yummy!*
+*Don's Recipe for Chinese Ginseng Chicken Tonic Soup... I want!!! Recipe for it is [Here](https://remiliaexocore.netlify.app/journal/chinese-ginseng-chicken-tonic-soup/) and recipe for his Korean Chicken Soup is [Here](https://remiliaexocore.netlify.app/journal/korean-ginseng-chicken-soup/)! Yummy!*
