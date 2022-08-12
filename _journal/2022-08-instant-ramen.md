@@ -20,6 +20,7 @@ ok so. :::: I am just beginning to make this post but i am goign to add a few no
 I am going to try Instant Ramen with :
 
 - [ ] Egg! Soft-medium boil
+- [ ] Quail eggs
 - [ ] Spicy spices
 - [ ] Salt, pepper
 - [ ] Vinegar 
