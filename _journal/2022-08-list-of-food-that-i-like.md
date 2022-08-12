@@ -20,8 +20,8 @@ tags:
 ![](/images/musselsinsauce.png) 
 *Just saw this image on the TL and it fueled me to make this post. Mussels... So tasty ! I love seafood a lot*
 
-### Beef Tartare (My own recipe!) 
-![](/images/beeftartare.png) *Beef tartare is so good. It leaves you feeling great after eating it, especially when I make it by my recipe. [Here is my Recipe!](https://leili.netlify.app/journal/2022-08-esoteric-beef-tartare/)
+### Beef Tartare [My own recipe!](https://leili.netlify.app/journal/2022-08-esoteric-beef-tartare/) 
+![](/images/beeftartare.png) *Beef tartare is so good. It leaves you feeling great after eating it, especially when I make it by my recipe. [Here is my Recipe!](https://leili.netlify.app/journal/2022-08-esoteric-beef-tartare/)*
 
 ### Steak, rare
 ![](/images/steakrare.png) 
