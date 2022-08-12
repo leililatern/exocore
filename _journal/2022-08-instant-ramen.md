@@ -29,7 +29,7 @@ I am going to try Instant Ramen with :
 - [ ] Butter or animals fats as oil
 - [ ] Fresh Greens. Spinach and basil
 - [ ] Thinly sliced meats / pulled pork
-- [ ] Le shrimp!
+- [ ] LE SHRIMP!!!!
 - [ ] Spicy sauces
 - [ ] Soy sauce
 - [ ] Ginger, Garlic, green onion
@@ -45,3 +45,4 @@ I am going to try Instant Ramen with :
 - [ ] Miso paste
 
 This can all be tried with high quality noodles too. I will try it with cheapest noodles and good noodles ! Not to worry, I will experiment until I find the best recipe :DDD 
+I will later turn all this into a coherent recipe, after trying out what works best
