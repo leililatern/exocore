@@ -10,15 +10,18 @@ title: Home
 
 ## Photography NFTs
 
-Here is my photography NFT project [Website](https://leilis.carrd.co/)! 
-They are also on [OpenSea](https://opensea.io/collection/leilis)! **<--**
+Here is my photography NFT project 
+[✰CLICK HERE TO ENTER✰](https://leilis.carrd.co/)! 
+⬇⬇⬇ They are also on OpenSea!!! ⬇⬇⬇
+**-->** [✰CLICK HERE✰](https://opensea.io/collection/leilis)! **<--**
 
 ![](/images/leilisnft.png)
 *Example of 9 out of 117 images from my NFT collection.*
 
 ## Old Poetry Blog
 
-My [old poetry blog](https://laternapoiss.blogspot.com/) with poetry in Estonian and English from the years of *2017 to 2021*.
+My old poetry blog with poetry in Estonian and English from the years of *2017 to 2021*.
+**-->** [✰CLICK HERE TO ENTER✰](https://laternapoiss.blogspot.com/) **<--**
 
 ![](/images/leilibackround.png)
 *The original Leili backround.*
