@@ -36,3 +36,8 @@ tags:
 ### Oven-cooked fresh wild salmon/trout
 ![](/images/ovensalmon.png)
 *I make the best salmon/trout in the oven. I can also share this recipe here sometime maybe :DD trick is: to add lots of lemon juice and pepper and honey. then whatever Else u want and let it marinate for the ideally night or at least an hour*
+
+### Methi Chicken!!! Best Indian Dish
+
+![](/images/methichicken.png)
+*Best Indian food ever - I love this so much, it's the best flavour and super filling. Whenever I go to an Indian restaurant I order this and eat it with Rice or Naan. >.< :3*
