@@ -12,7 +12,7 @@ tags:
 ![](/images/beeftartare.png)
 *Photo is illustrative. I will upload my own picture soon.*
 
-## WARNING! This recipe WILL leave your mouth ==STINKY==!
+## WARNING! This recipe WILL leave your mouth STINKY!
 
 ---
 
@@ -39,6 +39,6 @@ I like to use [this Method](https://www.youtube.com/watch?v=yAGX-54iR30) for sep
 6. Create shape (for example, a Ball :D)
 7. Eat!
 
-That's it, good healthy esoteric Healthmaxx Raw Beef :joy: !!~
+==That's it, good healthy esoteric Healthmaxx Raw Beef :joy: !!~==
 
 **__WARNING! WILL Leave your mouth STINKY! Oops :joy:__**
