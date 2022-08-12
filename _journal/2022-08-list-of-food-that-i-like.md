@@ -41,3 +41,8 @@ tags:
 
 ![](/images/methichicken.png)
 *Best Indian food ever - I love this so much, it's the best flavour and super filling. Whenever I go to an Indian restaurant I order this and eat it with Rice or Naan. >.< :3*
+
+### Chinese Ginseng Chicken Tonic Soup
+
+![](/images/chickensoup.png)
+*Don's Recipe for Chinese Ginseng Chicken Tonic Soup... I want!!! Recipe is [Here](https://remiliaexocore.netlify.app/journal/chinese-ginseng-chicken-tonic-soup/) and for his Korean Chicken Soup, [Here](https://remiliaexocore.netlify.app/journal/korean-ginseng-chicken-soup/) Yummy!*

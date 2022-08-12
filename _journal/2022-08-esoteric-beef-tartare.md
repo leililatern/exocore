@@ -36,4 +36,4 @@ ima![](/images/beeftartare.png)
 
 That's it, good healthy esoteric Healthmaxx Raw Beef :DDD !!~
 
-## WARNING! WILL Leave your mouth STINKY! Oops :'D
+WARNING! WILL Leave your mouth STINKY! Oops :'D
