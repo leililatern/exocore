@@ -33,12 +33,12 @@ tags:
 1. Turn the garlic into tiny pieces
 2. Turn the onion into tiny pieces
 3. Separate egg yolk from egg white. 
-I like to use [this Method](https://www.youtube.com/watch?v=yAGX-54iR30) for separating egg whites and yolks[^1].
+[^1]: I like to use [this Method](https://www.youtube.com/watch?v=yAGX-54iR30) for separating egg whites and yolks.
 4. Put meat in bowl, add All of the ingredients. (Season by your own preference, I like to put a lot of pepper always)
 5. Mash the meat and ingredients together completely with clean hands
 6. Create shape (for example, a Ball :D)
 7. Eat!
 
-==That's it, good healthy esoteric Healthmaxx Raw Beef :joy: !!~==
+==That's it, good healthy esoteric Healthmaxx Raw Beef :DDD !!~
 
-**WARNING! WILL Leave your mouth STINKY! Oops :joy:**
+**WARNING! WILL Leave your mouth STINKY! Oops :D**
