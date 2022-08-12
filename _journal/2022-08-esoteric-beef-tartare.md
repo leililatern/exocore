@@ -7,9 +7,9 @@ tags:
 
 # Healthiest Beef Tartare You've Ever Had!
 
-This is a recipe I got from my friend Ulenka, we enjoy making the strongest Beef Tartare possible. :) This is my version of the recipe.
+{:.glow}(This is a recipe I got from my friend Ulenka, we enjoy making the strongest Beef Tartare possible. :) This is my version of the recipe.)
 
-ima![](/images/beeftartare.png)
+![](/images/beeftartare.png)
 *Photo is illustrative. I will upload my own picture soon.*
 
 ## WARNING! This recipe WILL leave your mouth STINKY!
