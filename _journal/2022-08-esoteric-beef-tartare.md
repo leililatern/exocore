@@ -39,6 +39,6 @@ tags:
 6. Create shape (for example, a Ball :D)
 7. Eat!
 
-==That's it, good healthy esoteric Healthmaxx Raw Beef :DDD !!~
+{:.glow} That's it, good healthy esoteric Healthmaxx Raw Beef :DDD !!~
 
 **WARNING! WILL Leave your mouth STINKY! Oops :D**
