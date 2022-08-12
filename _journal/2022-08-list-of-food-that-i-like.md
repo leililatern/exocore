@@ -10,15 +10,15 @@ tags:
 
 ### Oysters
 ![](/images/oysters.png)
-*Nämm nämm...*
+*Nämm nämm... Self-explanatory*
 
-### Um. CHANTERELLE SAUCE WITH (MASHED!) POTATOES AND MINCED BEEF
+### Um. CHANTERELLE SAUCE!!!!!!!
 ![](/images/chanterellesauce.png)
-*Tastiest thing in the world. Every Estonian swears by it, and also EVERY Estonian swears that THEIR mother makes the best chanterelle sauce in the world. :33 >.<*
+*Tastiest thing in the world. BEST WITH (MASHED!) POTATOES AND BEEF!!! Every Estonian swears by it, and also EVERY Estonian swears that THEIR mother makes the best chanterelle sauce in the world. :33 >.< Might post recipe soon.*
 
 ### MUSSELS with a tasty sauce
 ![](/images/musselsinsauce.png) 
-*Just saw this image on the tl and it fueled me to make this post. Mussels... So tasty ! I love seafood a lot*
+*Just saw this image on the TL and it fueled me to make this post. Mussels... So tasty ! I love seafood a lot*
 
 ### Beef Tartare (My own recipe!) 
 ![](/images/beeftartare.png) *Beef tartare is so good. It leaves you feeling great after eating it, especially when I make it by my recipe. [Here is my Recipe!](https://leili.netlify.app/journal/2022-08-esoteric-beef-tartare/)
@@ -27,9 +27,10 @@ tags:
 ![](/images/steakrare.png) 
 *It's sinple really*
 
-### Le Shrimp. Perhaps, preferably Pho Soup with Le Shrimp and Le Shrimp Dumplings and Glass noodles & Pork stripes. One of my favourite foods 
+### Le Shrimp / Pho Soup
+
 ![](/images/pholovers.png) 
-*I love this Pho Soup ...*
+*Perhaps, Shrimp, but... Pho Soup with Le Shrimp and Le Shrimp Dumplings and Glass noodles & Pork stripes. One of my favourite foods*
 ![](/images/leshrimp.png)
 *LE SHRIMPY!!!*
 
