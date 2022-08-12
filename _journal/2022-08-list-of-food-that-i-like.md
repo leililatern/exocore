@@ -20,8 +20,8 @@ tags:
 ![](/images/musselsinsauce.png) 
 *Just saw this image on the tl and it fueled me to make this post. Mussels... So tasty ! I love seafood a lot*
 
-### Beef Tartare (my own recipe! very spicy raw healthy flavourful recipe, WILL leave your mouth smelly and stinky) 
-![](/images/beeftartare.png) *Beef tartare is so good. It leaves you feeling great after eating it, especially when I make it by my recipe. I might even post the recipe here one day*
+### Beef Tartare (My own recipe!) 
+![](/images/beeftartare.png) *Beef tartare is so good. It leaves you feeling great after eating it, especially when I make it by my recipe. [Here is my Recipe!](https://leili.netlify.app/journal/2022-08-esoteric-beef-tartare/)
 
 ### Steak, rare
 ![](/images/steakrare.png) 
