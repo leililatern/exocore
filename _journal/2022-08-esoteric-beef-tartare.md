@@ -20,7 +20,7 @@ tags:
 
 * 1 Egg (yolk)
 * 200 Tartare Meat (good pure mashed up (minced) beef)
-* 3 garlic cloves (4 if small cloves)
+* 3 garlic cloves (4 if small cloves, I put more)
 * Half an onion
 * 0,5 Tsp Pure Olive oil
 * Salt, pepper
