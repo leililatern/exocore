@@ -17,6 +17,7 @@ ok so. :::: I am just beginning to make this post but i am goign to add a few no
 *What I want to achieve with this recipe is so a girl (or boy) that doesn't know how to start with eating healthy food can buy random cheap instant ramen and then customize it fully and turn it into a nice easy healthy dish.*
  *so ; Cheap ramen is the base and adding things to it to makes it a full meal !*
 
+Once I have tried enough ways to eat ramen I will make a proper good healthy easy Recipe !
 I am going to try Instant Ramen with :
 
 - [ ] Egg! Soft-medium boil
