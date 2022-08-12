@@ -4,7 +4,7 @@ title: Home
 ---
 
 ![](/images/lillahiiumaa.png) 
-*𓆃𓅩𓅛 this website is under careful curation 𓅛𓅩𓆃*
+*𓆃𓅩𓅛 this website is under curation 𓅛𓅩𓆃*
 
 # My Projects
 
