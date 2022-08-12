@@ -8,9 +8,14 @@ tags:
 # Healthiest Beef Tartare You've Ever Had!
 
 This is a recipe I got from my friend Ulenka, we enjoy making the strongest Beef Tartare possible. :) This is my version of the recipe.
-WARNING! This recipe WILL leave your mouth STINKY!
 
-Ingredients:
+ima![](/images/beeftartare.png)
+*Photo is illustrative. I will upload my own picture soon.*
+
+## WARNING! This recipe WILL leave your mouth STINKY!
+
+### Ingredients
+
 * 1 Egg (yolk)
 * 200 Tartare Meat (good pure mashed up (minced) beef)
 * 3 garlic cloves (4 if small cloves)
@@ -19,6 +24,7 @@ Ingredients:
 * Salt, pepper
 * Cayenne pepper (optional)
 
+### Instructions
 
 1. Turn the garlic into tiny pieces
 2. Turn the onion into tiny pieces
@@ -29,4 +35,5 @@ Ingredients:
 7. Eat!
 
 That's it, good healthy esoteric Healthmaxx Raw Beef :DDD !!~
-WARNING! WILL Leave your mouth STINKY! Oops :'D
+
+## WARNING! WILL Leave your mouth STINKY! Oops :'D
