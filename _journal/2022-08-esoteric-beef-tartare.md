@@ -16,8 +16,6 @@ tags:
 
 ---
 
-{:test paragraph aaajajaj jaj jadhslakf jkahfal afvjk.right-aside}
-
 ### Ingredients
 
 * 1 Egg (yolk)
@@ -39,7 +37,7 @@ I like to use [this Method](https://www.youtube.com/watch?v=yAGX-54iR30) for sep
 6. Create shape (for example, a Ball :D)
 7. Eat!
 
-{:.glow} That's it, good healthy esoteric Healthmaxx Raw Beef :DDD !!~
+That's it, good healthy esoteric Healthmaxx Raw Beef :DDD !!~
 
 **WARNING! WILL Leave your mouth STINKY! Oops :D**
 
