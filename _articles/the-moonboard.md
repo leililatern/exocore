@@ -26,6 +26,6 @@ tags: moon
 1. Furthermore, the Moon is reported to have an exceptionally durable and dense surface material, even to the degree that the material of the Moon could be of... Unnatural origins.. 
 
 2. Craters of the moon are disproportionally shallow for their sizes compared to the Earth's craters due to the Moon's strong material. 
- {:.right-aside} Example: Moon's biggest crater , South Pole-Aitken Basin reaches 2500km in diameter, but only 8,2km in depth. For contrast, Earth's largest known crater with a measurable depth (not covered by thousands of years of rubble), the Chicxulub crater, has a diameter of 180km and depth of 10km.
+*Example: Moon's biggest crater , **South Pole-Aitken Basin** reaches 2500km in diameter, but only 8,2km in depth. For contrast, Earth's largest known crater with a measurable depth (not covered by thousands of years of rubble), the Chicxulub crater, has a diameter of 180km and depth of 10km.*
 
 *More info soon ...*
