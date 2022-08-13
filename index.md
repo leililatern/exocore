@@ -3,44 +3,28 @@ layout: home
 title: Home
 ---
 
-![](/images/lillahiiumaa.png) 
-*𓆃𓅩𓅛 this website is under curation 𓅛𓅩𓆃*
+# Secrets of CONTROVERSIAL Moon
 
-## My Projects
+This is the moon. WATCH OUT!
 {:.center}
 
-### Photography NFTs
-{:.center}
+![This is the moon. WATCH OUT!](/images/moon1.png)
+*This is an example of an image of the moon... Understand? Yes. Further...*
 
-Here is my photography NFT project website :3
-{:.center}
+## Here, a few excerpts from the 2020 moon chart:
 
-**[✰CLICK HERE TO ENTER✰](https://leilis.carrd.co/)!**
-{:.center}
+| mjäu | Moon | Earth |
+| ----------- | ----------- |
+| Diameter | 3,474km, *27% of Earth* | 12,742km |
+| Surface area | 37,936,694.79km2, *7,4% of Earth* | 510,064,472km2 |
+| Volume | 21,971,669,064km3, *2% of Earth* | 1,083,206,916,846km3 |
+| Mass | 73,476,730,924,573,500,000,000kg, *1,2% of Earth* | 5,972,190,000,000,000,000,000,000kg |
+| Density | 3.344g/cm3, *60% of Earth* | 5.513g/cm3 |
+| Gravity | 1.624m/s2, *16,6% of Earth* | 9.80665m/s2 |
 
-↓↓↓ They are also on OpenSea!!! ↓↓↓
-{:.center}
+1. Furthermore, the Moon is reported to have an exceptionally durable and dense surface material, even to the degree that the material of the Moon could be of... Unnatural origins.. 
 
-**-->** **[✰CLICK HERE FOR OPENSEA✰](https://opensea.io/collection/leilis)!** **<--**
-{:.center}
+2. Craters of the moon are disproportionally shallow for their sizes compared to the Earth's craters due to the Moon's strong material. 
+*Example: Moon's biggest crater , **South Pole-Aitken Basin** reaches 2500km in diameter, but only 8,2km in depth. For contrast, Earth's largest known crater with a measurable depth (not covered by thousands of years of rubble), the Chicxulub crater, has a diameter of 180km and depth of 10km.*
 
-![](/images/leilisnft.png)
-*Example of 9 out of 117 images from my NFT collection.*
-
-### Old Poetry Blog
-{:.center}
-
-My old poetry blog with poetry in Estonian and English from the years of *2017 to 2021*.
-{:.center}
-
-**-->** **[✰CLICK HERE TO ENTER BLOG✰](https://laternapoiss.blogspot.com/)** **<--**
-{:.center}
-
-![](/images/leilibackround.png)
-*The original Leili backround.*
-
-![](/images/leilioldpfp.png)
-*The original Leili pfp.*
-
-I will soon be moving all of my old Poetry here as well. <3
-{:.center}
+*More info soon ...*
