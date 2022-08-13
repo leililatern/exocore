@@ -11,21 +11,21 @@ $color-items: rgb(0, 0, 0);
 
 
 /* --- Text Colors --- */
-$color-text: #ffffff;
-$color-subtext: rgb(255, 255, 255);
-$color-code: #707070;
-$internal-links: rgb(0, 242, 255);
-$external-links: #9254fe;
+$color-text: white;
+$color-subtext: white;
+$color-code: pink;
+$internal-links: rgb(204, 37, 255);
+$external-links: #bd54fe;
 $invalid-links: $internal-links;
-$color-primary: #a125ff;
-$color-secondary: #9d77ff;
-$color-box-shadow: #000000;
+$color-primary: #e032ff;
+$color-secondary: #cf33ff;
+$color-box-shadow: none;
 
 
 /* --- Borders --- */
-$article-border: medium outset;
-$sidebar-border: medium outset;
-$prev-next-border: medium outset;
+$article-border: none;
+$sidebar-border: 1px solid rgb(255, 255, 255);
+$prev-next-border: none;
 $color-item-border: none;
 $border-radius: 0px;
 
@@ -120,11 +120,11 @@ h1,h2,h3,h4,h5,h6 {
   text-align:left
 }
 
-.title-text { color:#7500dc; font-weight:bold; font-size:1.2em; line-height:1em; margin:0em; text-align:center; padding:1em; padding-bottom:0.5em; text-decoration:none !important;}
+.title-text { color:#ffffff; font-weight:bold; font-size:1.2em; line-height:1em; margin:0em; text-align:center; padding:1em; padding-bottom:0.5em; text-decoration:none !important;}
 
-h1 {color:#d60ddd; font-weight:bold; text-decoration:underline; font-size: 1.3em;}
-h2 {color:#ae00ff; font-weight:bold;}
-h3 {color:#aa00ff; font-weight:normal; text-decoration:underline}
+h1 {color:#ffffff; font-weight:bold; text-decoration:underline; font-size: 1.3em;}
+h2 {color:#ffffff; font-weight:bold;}
+h3 {color:#ffffff; font-weight:normal; text-decoration:underline}
 h4 {text-transform:none;font-weight:strong; font-size:1em;}
 h5 {text-transform:none;font-weight:normal; text-decoration:underline; tfont-size:1em;}
 
