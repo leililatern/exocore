@@ -5,14 +5,8 @@ tags:
 ---
 # 30937e
 
-**WHOA**
+![](/images/whoa.png) *WHOA*
 
-![](/images/whoa.png)
+![](/images/atlantislightcodes.png) *ATLANTIS LIGHT CODES*
 
-**ATLANTIS LIGHT CODES**
-
-![](/images/atlantislightcodes.png)
-
-ALIEN DOLPHIN INTERVENTION
-
-![](/images/dolphinalienintervention.png)
+![](/images/dolphinalienintervention.png) *ALIEN DOLPHIN INTERVENTION*

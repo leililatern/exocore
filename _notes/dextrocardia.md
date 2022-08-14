@@ -9,8 +9,6 @@ what if i had dextrocardia meaning my heart was on the right side of my chest ra
 
 ![](/images/dextrocardia.png)
 
-Wyd if I Iove you I love you I love you I love you I love you I love you I love you I love you I love you I love you  say it back I love you I love you I love you I love you I love you I love you say it back I love you I love you  say it back say it back say it back I love you I
-
-![](/images/iloveyou.png)
+![](/images/iloveyou.png) *Wyd if I Iove you I love you I love you I love you I love you I love you I love you I love you I love you I love you  say it back I love you I love you I love you I love you I love you I love you say it back I love you I love you  say it back say it back say it back I love you I*
 
 
