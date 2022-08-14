@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 
+![](/images/metaversetemple.png)
+
 # Secrets of CONTROVERSIAL Moon
 
 This is the moon. WATCH OUT!
